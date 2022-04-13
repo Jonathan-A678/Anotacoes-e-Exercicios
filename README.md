@@ -1,2 +1,2 @@
-# Anotacoes-e-Exercicios
-Repositório de Anotações e Exercícios da DIO
+# Anotacoes e Exercicios da DIO
+Repositório com as minhas anotações e exercícios da DIO
